@@ -1,0 +1,20 @@
+cmake_minimum_required(VERSION 3.20)
+project(01-single-linear C)
+
+set(CMAKE_C_STANDARD 99)
+
+add_executable(addHead addHead.c)
+add_executable(addLast addLast.c)
+add_executable(createList createList.c)
+add_executable(listInfo listInfo.c)
+add_executable(copy copy.c)
+add_executable(count count.c)
+add_executable(destroy destroy.c)
+add_executable(concatenate concatenate.c)
+add_executable(locate locate.c)
+add_executable(printReverse printReverse.c)
+add_executable(removeNode removeNode.c)
+add_executable(menu menu.c)
+
+add_executable(printList printList.c)
+add_executable(insertAfter insertAfter.c)
