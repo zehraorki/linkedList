@@ -1,4 +1,4 @@
-Linked List
+## Linked List
 Repository aşağıdaki 4 ana modülden oluşmaktadır:
 
 * 🔹 **`01-singly-linear/`**: Tek Bağlı Doğrusal Liste (Singly Linear Linked List)
